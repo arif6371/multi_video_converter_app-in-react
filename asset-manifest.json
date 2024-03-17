@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/multi_video_converter_app-in-react/static/css/main.35229fa5.css",
+    "main.js": "/multi_video_converter_app-in-react/static/js/main.20c5fb09.js",
+    "static/js/453.63c4db86.chunk.js": "/multi_video_converter_app-in-react/static/js/453.63c4db86.chunk.js",
+    "index.html": "/multi_video_converter_app-in-react/index.html",
+    "main.35229fa5.css.map": "/multi_video_converter_app-in-react/static/css/main.35229fa5.css.map",
+    "main.20c5fb09.js.map": "/multi_video_converter_app-in-react/static/js/main.20c5fb09.js.map",
+    "453.63c4db86.chunk.js.map": "/multi_video_converter_app-in-react/static/js/453.63c4db86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35229fa5.css",
+    "static/js/main.20c5fb09.js"
+  ]
+}
